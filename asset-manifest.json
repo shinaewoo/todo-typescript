@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todo-typescript/static/js/main.1481b4c0.js",
+    "index.html": "/todo-typescript/index.html",
+    "main.1481b4c0.js.map": "/todo-typescript/static/js/main.1481b4c0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1481b4c0.js"
+  ]
+}
