@@ -1,4 +1,4 @@
-# Crypto Tracker with React
+# Todo with typescript
 
 ### Tech Stack
 
